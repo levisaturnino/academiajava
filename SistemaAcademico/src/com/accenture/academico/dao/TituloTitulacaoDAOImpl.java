@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.accenture.academico.model.TituloTitulacao;
 
-public class TituloDAOImpl implements TituloDAO {
+public class TituloTitulacaoDAOImpl implements TituloTitulacaoDAO {
 
 	@Override
 	public void addTituloTitulacao(TituloTitulacao t) {

@@ -5,7 +5,7 @@ import java.util.List;
 import com.accenture.academico.model.TituloTitulacao;
 
 
-public interface TituloDAO {
+public interface TituloTitulacaoDAO {
 
 	public void addTituloTitulacao(TituloTitulacao t);
 
