@@ -1,0 +1,33 @@
+package com.accenture.academico.dao;
+
+import java.util.List;
+
+import com.accenture.academico.model.Titulo;
+
+public class TituloDAOImpl implements TituloDAO {
+
+	@Override
+	public void addTitulo(Titulo t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<Titulo> listTitulos() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void updateTitulo(Titulo t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteTitulo(Titulo t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

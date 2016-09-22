@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.accenture.academico.model&apos; to &apos;SistemaAcademico/src/com.accenture.academico&apos;&#x0A;- Original project: &apos;SistemaAcademicoJPA&apos;&#x0A;- Destination element: &apos;SistemaAcademico/src/com.accenture.academico&apos;&#x0A;- Original element: &apos;SistemaAcademicoJPA/src/com.accenture.academico.model&apos;" description="Copy package" destination="=SistemaAcademico/src&lt;com.accenture.academico" element1="/src&lt;com.accenture.academico.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1474571615186" version="1.0"/>
+</session>

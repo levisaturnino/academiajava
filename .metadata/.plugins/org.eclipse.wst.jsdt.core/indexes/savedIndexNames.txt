@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/home/saturnino/academiajava/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2978497260.index
+4050194955.index
+3341661613.index
+3505614684.index
+3094209882.index
+2064791084.index
+1755850893.index

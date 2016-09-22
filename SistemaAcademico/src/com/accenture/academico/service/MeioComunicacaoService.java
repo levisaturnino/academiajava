@@ -1,0 +1,17 @@
+package com.accenture.academico.service;
+
+import java.util.List;
+
+import com.accenture.academico.model.MeioComunicacao;
+
+public interface MeioComunicacaoService {
+
+	public void addMeioComunicacao(MeioComunicacao m);
+
+	public List<MeioComunicacao> listMeiosComunicacao();
+
+	public void updateMeioComunicacao(MeioComunicacao m);
+
+	public void deleteMeioComunicacao(MeioComunicacao m);
+
+}

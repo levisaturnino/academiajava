@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Sep 22 16:30:34 BRT 2016
+org.eclipse.jst.jee.server\:/binary\:/home/saturnino/.m2/repository/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE.jar=/home/saturnino/apache-tomcat-7.0.72/wtpwebapps/SistemaAcademico/WEB-INF/lib/spring-web-4.0.3.RELEASE.jar
+org.eclipse.jst.jee.server\:SistemaAcademico=/home/saturnino/apache-tomcat-7.0.72/wtpwebapps/SistemaAcademico
